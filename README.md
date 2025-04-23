@@ -22,11 +22,11 @@ Diese Demo zeigt, wie man mit einer eigenen Pipe Strings auf verschiedene Weise 
 
 ```
 git clone https://github.com/ronnymundt/custom-pipe-demo.git
-cd async-validator-demo
+cd custom-pipe-demo
 npm install
 ng serve
 ```
 
-## Screenshot
+## 📸 Screenshot
 
 ![Screenshot](/src/assets/screenshot.png)
