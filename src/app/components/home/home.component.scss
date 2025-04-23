@@ -1,18 +1,17 @@
 :host {
-    display: grid;
-    row-gap: 1.5rem;
-    padding: 1rem;
-    justify-content: center;
+  display: grid;
+  row-gap: 1.5rem;
+  padding: 1rem;
+  justify-content: center;
 
-    label {
-        display: block;
-        font-style: italic;
-        padding-bottom: 0.5rem;
-        font-size: 1.15rem;
-    }
+  label {
+    display: block;
+    font-style: italic;
+    padding-bottom: 0.5rem;
+    font-size: 1.15rem;
+  }
 
-    span {
-        font-size: 1.5rem;
-    }
+  span {
+    font-size: 1.5rem;
+  }
 }
-

@@ -1,1 +1,1 @@
-export declare type TMethods = 'order'  | 'shuffle' | 'reverse' | 'camel' | '';
+export declare type TMethods = 'order' | 'shuffle' | 'reverse' | 'camel' | '';
